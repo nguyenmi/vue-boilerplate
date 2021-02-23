@@ -1,0 +1,29 @@
+{
+  "menus": [
+    {
+      "name": "header.home",
+      "path": "/",
+      "icon": "icon-home"
+    },
+    {
+      "name": "header.about",
+      "path": "/about",
+      "icon": ""
+    },
+    {
+      "name": "header.login",
+      "path": "/login",
+      "icon": ""
+    }
+  ],
+  "langs": [
+    {
+      "name": "Việt Nam",
+      "value": "vn"
+    },
+    {
+      "name": "English",
+      "value": "en"
+    }
+  ]
+}

@@ -9,9 +9,6 @@ export default {
   name: "App",
   components: {
     MasterLayout
-  },
-  mounted() {
-    console.log(process.env);
   }
 };
 </script>
