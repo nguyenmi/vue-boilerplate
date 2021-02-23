@@ -16,7 +16,7 @@
 import store from "@store";
 
 export default {
-  name: "Home   ",
+  name: "Home",
   components: store,
   props: {
     msg: String
